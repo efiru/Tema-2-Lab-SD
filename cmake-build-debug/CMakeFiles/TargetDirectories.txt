@@ -1,0 +1,3 @@
+/Users/firu/CLionProjects/Tema2LabSD/cmake-build-debug/CMakeFiles/Tema2LabSD.dir
+/Users/firu/CLionProjects/Tema2LabSD/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/firu/CLionProjects/Tema2LabSD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
